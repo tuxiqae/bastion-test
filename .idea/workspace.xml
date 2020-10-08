@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated />
   </component>
@@ -12,7 +21,9 @@
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="697436b0-3997-42fc-9cad-3f5b75d75768" name="Default Changelist" comment="" />
+    <list default="true" id="697436b0-3997-42fc-9cad-3f5b75d75768" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +61,7 @@
     <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="zielu.gittoolbox.app.config" />
   </component>
   <component name="RunManager">
     <configuration name="Run" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
@@ -86,12 +97,37 @@
       <workItem from="1602112144958" duration="53000" />
       <workItem from="1602112209115" duration="969000" />
       <workItem from="1602113192285" duration="3134000" />
-      <workItem from="1602116339024" duration="1029000" />
+      <workItem from="1602116339024" duration="1074000" />
+      <workItem from="1602117590886" duration="701000" />
     </task>
+    <task id="LOCAL-00001" summary="Almost working?">
+      <created>1602117563166</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602117563166</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Almost working?" />
+    <option name="LAST_COMMIT_MESSAGE" value="Almost working?" />
   </component>
   <component name="WindowStateProjectService">
     <state x="698" y="356" width="513" height="344" key="#Notifications" timestamp="1602084487304">
@@ -114,10 +150,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1832" height="448" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1602116326298" />
-    <state x="446" y="88" key="SettingsEditor" timestamp="1602113088785">
+    <state x="444" y="70" key="SettingsEditor" timestamp="1602117685319">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="446" y="88" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1602113088785" />
+    <state x="444" y="70" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1602117685319" />
     <state x="622" y="251" key="run.anything.popup" timestamp="1602112237819">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

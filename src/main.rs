@@ -42,9 +42,7 @@ fn main() {
                                                     msg: &'static str =!> {
                                                         println!(r#"msg == "Hello World!" => {}"#, msg == "Hello World!"); // true
                                                         answer!(message, "Goodbye!");
-
-                //test will
-
+                                                        
                                 /*                        let (mut msg, sign) = message.extract();
                                                         let sender = msg.take_sender().expect("failed to take render");
                                                         sender.send("Goodbye!", sign);
